@@ -362,6 +362,18 @@ img {
   transform: scale(1.1);
 }
 
+/* Achivement */
+
+.achivment__container{
+  row-gap: 2rem;
+}
+
+.achivment__img{
+  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+  border-radius: .5rem;
+  overflow: hidden;
+}
+
 /* ===== CONTACT =====*/
 .contact__input {
   width: 100%;
